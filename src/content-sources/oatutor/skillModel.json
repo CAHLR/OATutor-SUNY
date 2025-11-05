@@ -709,5 +709,407 @@
     ],
     "abf952fdata9a": [
         "coding"
+    ],
+    "a9db8f8functions1a": [
+        "determining_whether_a_relation_represents_a_function"
+    ],
+    "a9db8f8functions1b": [
+        "determining_whether_a_relation_represents_a_function"
+    ],
+    "a9db8f8functions10a": [
+        "evaluation_of_functions_in_algebra_forms"
+    ],
+    "a9db8f8functions11a": [
+        "evaluation_of_functions_in_algebra_forms"
+    ],
+    "a9db8f8functions12a": [
+        "evaluation_of_functions_in_algebra_forms"
+    ],
+    "a9db8f8functions13a": [
+        "evaluation_of_functions_in_algebra_forms"
+    ],
+    "a9db8f8functions2a": [
+        "using_function_notation"
+    ],
+    "a9db8f8functions3a": [
+        "using_function_notation"
+    ],
+    "a9db8f8functions4a": [
+        "using_function_notation"
+    ],
+    "a9db8f8functions5a": [
+        "representing_functions_using_tables"
+    ],
+    "a9db8f8functions5b": [
+        "representing_functions_using_tables"
+    ],
+    "a9db8f8functions6a": [
+        "representing_functions_using_tables"
+    ],
+    "a9db8f8functions6b": [
+        "representing_functions_using_tables"
+    ],
+    "a9db8f8functions6c": [
+        "representing_functions_using_tables"
+    ],
+    "a9db8f8functions7a": [
+        "representing_functions_using_tables"
+    ],
+    "a9db8f8functions8a": [
+        "evaluation_of_functions_in_algebra_forms"
+    ],
+    "a9db8f8functions8b": [
+        "evaluation_of_functions_in_algebra_forms"
+    ],
+    "a9db8f8functions8c": [
+        "evaluation_of_functions_in_algebra_forms"
+    ],
+    "a9db8f8functions8d": [
+        "evaluation_of_functions_in_algebra_forms"
+    ],
+    "a9db8f8functions9a": [
+        "evaluation_of_functions_in_algebra_forms"
+    ],
+    "a9db8f8real1a": [
+        "transformation_of_functions"
+    ],
+    "a9db8f8real2a": [
+        "transformation_of_functions"
+    ],
+    "a9db8f8real3a": [
+        "transformation_of_functions"
+    ],
+    "a9db8f8real4a": [
+        "transformation_of_functions"
+    ],
+    "a9db8f8real5a": [
+        "transformation_of_functions"
+    ],
+    "a9db8f8real6a": [
+        "transformation_of_functions"
+    ],
+    "a9db8f8real7a": [
+        "transformation_of_functions"
+    ],
+    "a9db8f8real8a": [
+        "transformation_of_functions"
+    ],
+    "a197371polynomial1a": [
+        "power_functions_and_polynomial_functions"
+    ],
+    "a197371polynomial11a": [
+        "dividing_polynomials"
+    ],
+    "a197371polynomial12a": [
+        "dividing_polynomials"
+    ],
+    "a197371polynomial13a": [
+        "dividing_polynomials"
+    ],
+    "a197371polynomial14a": [
+        "dividing_polynomials"
+    ],
+    "a197371polynomial15a": [
+        "dividing_polynomials"
+    ],
+    "a197371polynomial16a": [
+        "dividing_polynomials"
+    ],
+    "a197371polynomial17a": [
+        "dividing_polynomials"
+    ],
+    "a197371polynomial2a": [
+        "power_functions_and_polynomial_functions"
+    ],
+    "a197371polynomial3a": [
+        "power_functions_and_polynomial_functions"
+    ],
+    "a197371polynomial4a": [
+        "power_functions_and_polynomial_functions"
+    ],
+    "a197371polynomial5a": [
+        "power_functions_and_polynomial_functions"
+    ],
+    "a197371polynomial6a": [
+        "power_functions_and_polynomial_functions"
+    ],
+    "a197371polynomial7a": [
+        "power_functions_and_polynomial_functions"
+    ],
+    "a197371quadratic1a": [
+        "quadratic_functions"
+    ],
+    "a197371quadratic1b": [
+        "quadratic_functions"
+    ],
+    "a197371quadratic1c": [
+        "quadratic_functions"
+    ],
+    "a197371quadratic1d": [
+        "quadratic_functions"
+    ],
+    "a197371quadratic10a": [
+        "quadratic_functions"
+    ],
+    "a197371quadratic2a": [
+        "quadratic_functions"
+    ],
+    "a197371quadratic3a": [
+        "quadratic_functions"
+    ],
+    "a197371quadratic4a": [
+        "quadratic_functions"
+    ],
+    "a197371quadratic5a": [
+        "quadratic_functions"
+    ],
+    "a197371quadratic6a": [
+        "quadratic_functions"
+    ],
+    "a197371quadratic7a": [
+        "quadratic_functions"
+    ],
+    "a197371quadratic8a": [
+        "quadratic_functions"
+    ],
+    "a197371quadratic9a": [
+        "quadratic_functions"
+    ],
+    "a197371zeropoly1a": [
+        "evaluating_a_polynomial_using_the_remainder_theorem"
+    ],
+    "a197371zeropoly2a": [
+        "using_the_factor_theorem_to_solve_a_polynomial_equation"
+    ],
+    "a197371zeropoly3a": [
+        "the_rational_zero_theorem"
+    ],
+    "a197371zeropoly4a": [
+        "finding_the_zeros_of_a_polynomial_function_with_repeated_real_zeros"
+    ],
+    "a197371zeropoly5a": [
+        "fundamental_theorem_of_algebra"
+    ],
+    "a197371zeropoly5b": [
+        "fundamental_theorem_of_algebra"
+    ],
+    "a197371zeropoly6a": [
+        "complex_conjugate_theorem"
+    ],
+    "a87b6d9rational1a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational10a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational11a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational12a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational13a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational14a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational15a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational16a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational17a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational18a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational19a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational2a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational20a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational21a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational22a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational23a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational24a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational25a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational26a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational27a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational28a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational29a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational3a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational30a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational4a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational5a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational6a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational7a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational8a": [
+        "rational_functions"
+    ],
+    "a87b6d9rational9a": [
+        "rational_functions"
+    ],
+    "afa601aexplog1a": [
+        "exponential_and_logarithmic_equations"
+    ],
+    "afa601aexplog2a": [
+        "exponential_and_logarithmic_equations"
+    ],
+    "afa601aexplog3a": [
+        "exponential_and_logarithmic_equations"
+    ],
+    "afa601aexplog4a": [
+        "exponential_and_logarithmic_equations"
+    ],
+    "afa601aexplog5a": [
+        "exponential_and_logarithmic_equations"
+    ],
+    "afa601aexplog6a": [
+        "exponential_and_logarithmic_equations"
+    ],
+    "afa601alog1a": [
+        "graphs_of_logarithmic_functions"
+    ],
+    "afa601alog2a": [
+        "graphs_of_logarithmic_functions"
+    ],
+    "afa601alog3a": [
+        "graphs_of_logarithmic_functions"
+    ],
+    "afa601areal10a": [
+        "exponential_functions"
+    ],
+    "afa601areal11a": [
+        "exponential_functions"
+    ],
+    "afa601areal111a": [
+        "exponential_functions"
+    ],
+    "afa601areal222a": [
+        "exponential_functions"
+    ],
+    "afa601areal3a": [
+        "exponential_functions"
+    ],
+    "a4dc570Unitcirc1a": [
+        "finding_sines_and_cosines_of_special_angles"
+    ],
+    "a4dc570Unitcirc2a": [
+        "finding_sines_and_cosines_of_special_angles"
+    ],
+    "a4dc570Unitcirc3a": [
+        "finding_sines_and_cosines_of_special_angles"
+    ],
+    "a4dc570Unitcirc4a": [
+        "finding_sines_and_cosines_of_special_angles"
+    ],
+    "a4dc570Unitcirc5a": [
+        "finding_sines_and_cosines_of_special_angles"
+    ],
+    "a4dc570Unitcirc6a": [
+        "finding_sines_and_cosines_of_special_angles"
+    ],
+    "a4dc570othertrig1a": [
+        "the_other_trigonometric_functions"
+    ],
+    "a4dc570othertrig2a": [
+        "the_other_trigonometric_functions"
+    ],
+    "a4dc570othertrig21a": [
+        "the_other_trigonometric_functions"
+    ],
+    "a4dc570othertrig22a": [
+        "the_other_trigonometric_functions"
+    ],
+    "a4dc570othertrig3a": [
+        "the_other_trigonometric_functions"
+    ],
+    "a4dc570othertrig4a": [
+        "the_other_trigonometric_functions"
+    ],
+    "a4dc570othertrig5a": [
+        "the_other_trigonometric_functions"
+    ],
+    "a4dc570real1a": [
+        "graphs_of_the_other_trigonometric_functions"
+    ],
+    "a4dc570real2a": [
+        "graphs_of_the_other_trigonometric_functions"
+    ],
+    "a4dc570real3a": [
+        "graphs_of_the_other_trigonometric_functions"
+    ],
+    "a1fb6d8ellipse1a": [
+        "the_ellipse"
+    ],
+    "a1fb6d8ellipse2a": [
+        "the_ellipse"
+    ],
+    "a1fb6d8ellipse29a": [
+        "the_ellipse"
+    ],
+    "a1fb6d8ellipse3a": [
+        "the_ellipse"
+    ],
+    "a1fb6d8ellipse30a": [
+        "the_ellipse"
+    ],
+    "a1fb6d8ellipse4a": [
+        "the_ellipse"
+    ],
+    "a1fb6d8ellipse5a": [
+        "the_ellipse"
+    ],
+    "a1fb6d8real1a": [
+        "the_parabola"
+    ],
+    "a1fb6d8real2a": [
+        "the_parabola"
+    ],
+    "a1fb6d8real3a": [
+        "the_parabola"
+    ],
+    "a1fb6d8real4a": [
+        "the_parabola"
+    ],
+    "a1fb6d8real5a": [
+        "the_parabola"
     ]
 }

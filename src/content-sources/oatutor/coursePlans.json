@@ -133,5 +133,83 @@
                 }
             }
         ]
+    },
+    {
+        "courseName": "MTH112",
+        "courseOER": "https://OATutor.io <OATutor>",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "4rgZA7mW-Nemm-Xc1ADdx7xH",
+                "name": "Lesson Basic",
+                "topics": "Function and Graphing Skills",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "determining_whether_a_relation_represents_a_function": 0.85,
+                    "evaluation_of_functions_in_algebra_forms": 0.85,
+                    "representing_functions_using_tables": 0.85,
+                    "transformation_of_functions": 0.85,
+                    "using_function_notation": 0.85
+                }
+            },
+            {
+                "id": "6b2KwO3Q-Bjon-5oWp2gRE58",
+                "name": "Lesson Polynomial",
+                "topics": "Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "complex_conjugate_theorem": 0.85,
+                    "dividing_polynomials": 0.85,
+                    "evaluating_a_polynomial_using_the_remainder_theorem": 0.85,
+                    "finding_the_zeros_of_a_polynomial_function_with_repeated_real_zeros": 0.85,
+                    "fundamental_theorem_of_algebra": 0.85,
+                    "power_functions_and_polynomial_functions": 0.85,
+                    "quadratic_functions": 0.85,
+                    "the_rational_zero_theorem": 0.85,
+                    "using_the_factor_theorem_to_solve_a_polynomial_equation": 0.85
+                }
+            },
+            {
+                "id": "723SMO7J-NxO4-AH0QvCIQr6",
+                "name": "Lesson Rational",
+                "topics": "Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "rational_functions": 0.85
+                }
+            },
+            {
+                "id": "4a6MVEPq-SXB0-4glD0iQ9Md",
+                "name": "Lesson Exponential",
+                "topics": "and Logarithmic Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "exponential_and_logarithmic_equations": 0.85,
+                    "exponential_functions": 0.85,
+                    "graphs_of_logarithmic_functions": 0.85
+                }
+            },
+            {
+                "id": "7YYo80ke-AYRY-FwoqLAxOmw",
+                "name": "Lesson Trigonometric",
+                "topics": "Functions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_sines_and_cosines_of_special_angles": 0.85,
+                    "graphs_of_the_other_trigonometric_functions": 0.85,
+                    "the_other_trigonometric_functions": 0.85
+                }
+            },
+            {
+                "id": "3Wq0jI7y-h0fu-EXhwDTPM1M",
+                "name": "Lesson Conic",
+                "topics": "Sections",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "the_ellipse": 0.85,
+                    "the_parabola": 0.85
+                }
+            }
+        ]
     }
 ]
