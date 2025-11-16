@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OATutor-SUNY/static/css/main.9c8fa25a.css",
-    "main.js": "/OATutor-SUNY/static/js/main.43b881a0.js",
+    "main.js": "/OATutor-SUNY/static/js/main.231f1341.js",
     "static/media/Symbola.svg": "/OATutor-SUNY/static/media/Symbola.f647c9292a2da02d9ae8.svg",
     "static/media/Symbola.eot": "/OATutor-SUNY/static/media/Symbola.d25fbd520f6558203fb4.eot",
     "static/media/Symbola.ttf": "/OATutor-SUNY/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
@@ -9,10 +9,10 @@
     "static/media/Symbola.woff2": "/OATutor-SUNY/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/OATutor-SUNY/index.html",
     "main.9c8fa25a.css.map": "/OATutor-SUNY/static/css/main.9c8fa25a.css.map",
-    "main.43b881a0.js.map": "/OATutor-SUNY/static/js/main.43b881a0.js.map"
+    "main.231f1341.js.map": "/OATutor-SUNY/static/js/main.231f1341.js.map"
   },
   "entrypoints": [
     "static/css/main.9c8fa25a.css",
-    "static/js/main.43b881a0.js"
+    "static/js/main.231f1341.js"
   ]
 }
