@@ -346,5 +346,323 @@
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
+    },
+    "credibility": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "external_environment": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "mental_health": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "nursing_care": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "recovery": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "risk_factors": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "self_awareness": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "stigma_and_prejudice": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "therapeutic_care": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "healthcare_law": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "international_classification": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "nursing_process": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "patient_centered_care": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "psychosocial_understanding": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "therapy_and_treatment": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "trauma": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "abuse": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "anger_and_aggression": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "cultural_competency": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "methods_of_restraint": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "self_harm_and_treatment": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "treatments": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "anxiety_and_stress": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "biological_drug_processes": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "dissociative_identity_disorder": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "other_disorders": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "panic_and_phobia_disorders": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "catatonia": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "delusions": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "schizophrenia": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "staging": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "substance_use": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "treatment": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "bipolar_disorder": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "community_needs": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "concerns_of_death_and_dying": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "grief": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "legal_aspects_of_care": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "mood_disorders": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "suicide_and_self_harm": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "cluster_a_disorders": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "cluster_b_disorders": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "cluster_c_disorders": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "eating_disorders": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "personality_disorders": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "addiction": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "alcohol_reliance": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "controlled_sustances": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "opoids": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "substance_use_disorder": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "asd": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "genetic_disorders": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "intellectual_disability": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
     }
 }

@@ -211,5 +211,141 @@
                 }
             }
         ]
+    },
+    {
+        "courseName": "NUR 440",
+        "courseOER": "https://OATutor.io <OATutor>",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "4CYattNu-fGjD-eOdhF6U8RT",
+                "name": "Lesson Module",
+                "topics": "1",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "credibility": 0.85,
+                    "external_environment": 0.85,
+                    "mental_health": 0.85,
+                    "nursing_care": 0.85,
+                    "recovery": 0.85,
+                    "risk_factors": 0.85,
+                    "self_awareness": 0.85,
+                    "stigma_and_prejudice": 0.85,
+                    "therapeutic_care": 0.85
+                }
+            },
+            {
+                "id": "3H86PMJq-XmYF-cGbuTYNyix",
+                "name": "Lesson Module",
+                "topics": "2",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "healthcare_law": 0.85,
+                    "international_classification": 0.85,
+                    "nursing_process": 0.85,
+                    "patient_centered_care": 0.85,
+                    "psychosocial_understanding": 0.85,
+                    "therapy_and_treatment": 0.85,
+                    "trauma": 0.85
+                }
+            },
+            {
+                "id": "0CCOIQGb-SgpA-7tFRqwphk1",
+                "name": "Lesson Module",
+                "topics": "3",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "abuse": 0.85,
+                    "anger_and_aggression": 0.85,
+                    "cultural_competency": 0.85,
+                    "methods_of_restraint": 0.85,
+                    "self_harm_and_treatment": 0.85,
+                    "treatments": 0.85
+                }
+            },
+            {
+                "id": "5eIbz0m5-AWMM-11OfKwKEon",
+                "name": "Lesson Module",
+                "topics": "4",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "anxiety_and_stress": 0.85,
+                    "biological_drug_processes": 0.85,
+                    "dissociative_identity_disorder": 0.85,
+                    "other_disorders": 0.85,
+                    "panic_and_phobia_disorders": 0.85,
+                    "treatments": 0.85
+                }
+            },
+            {
+                "id": "0oMW7yHH-odQ1-rJeF12oMIQ",
+                "name": "Lesson Module",
+                "topics": "5",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "catatonia": 0.85,
+                    "delusions": 0.85,
+                    "schizophrenia": 0.85,
+                    "staging": 0.85,
+                    "substance_use": 0.85,
+                    "treatment": 0.85
+                }
+            },
+            {
+                "id": "4qpWFM3P-LC5B-Sxq4g6ztso",
+                "name": "Lesson Module",
+                "topics": "6",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "bipolar_disorder": 0.85,
+                    "community_needs": 0.85,
+                    "concerns_of_death_and_dying": 0.85,
+                    "grief": 0.85,
+                    "legal_aspects_of_care": 0.85,
+                    "mood_disorders": 0.85,
+                    "suicide_and_self_harm": 0.85
+                }
+            },
+            {
+                "id": "3TLaUS6c-9lq8-Pz5bnAYOC6",
+                "name": "Lesson Module",
+                "topics": "7",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "cluster_a_disorders": 0.85,
+                    "cluster_b_disorders": 0.85,
+                    "cluster_c_disorders": 0.85,
+                    "eating_disorders": 0.85,
+                    "personality_disorders": 0.85
+                }
+            },
+            {
+                "id": "43e0HjdN-qoQA-oU2pK5aQhx",
+                "name": "Lesson Module",
+                "topics": "8",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "addiction": 0.85,
+                    "alcohol_reliance": 0.85,
+                    "controlled_sustances": 0.85,
+                    "opoids": 0.85,
+                    "substance_use_disorder": 0.85,
+                    "treatment": 0.85
+                }
+            },
+            {
+                "id": "151L8auj-K3fr-KOkAZoJZ4Q",
+                "name": "Lesson Module",
+                "topics": "9",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "asd": 0.85,
+                    "genetic_disorders": 0.85,
+                    "intellectual_disability": 0.85,
+                    "other_disorders": 0.85,
+                    "treatment": 0.85
+                }
+            }
+        ]
     }
 ]
